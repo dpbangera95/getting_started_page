@@ -1,6 +1,6 @@
 # flutter_liquid_swipe
 
-A new Flutter application.
+A Flutter application to demonstrate the liquid page swipe animatoion package .
 
 ## Getting Started
 
